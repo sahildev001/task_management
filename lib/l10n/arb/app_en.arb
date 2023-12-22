@@ -1,0 +1,20 @@
+{
+    "@@locale": "en",
+   "authenticationTitle": "Move teamwork forward -- even on the go",
+    "@counterAppBarTitle": {
+        "description": "Move teamwork forward -- even on the go"
+    },
+     "bySigningUpText": "By signing up, you agree to our",
+     "termsOfService": "Terms of service",
+     "and" :"and",
+     "privacyPolicy" :"Privacy Policy",
+     "contactSupport" :"Contact support",
+     "name": "Name",
+     "signIn": "Sign In",
+     "signUp": "Sign Up",
+     "email": "Email",
+     "password":"Password",
+     "confirmPassword":"Confirm Password",
+     "continueText":"Continue"
+
+}

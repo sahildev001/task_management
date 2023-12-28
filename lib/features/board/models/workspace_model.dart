@@ -7,7 +7,8 @@ class WorkSpaceModel{
   List<BoardModel> boardList;
   String workspaceName;
 
-  WorkSpaceModel({required this.id,required this.boardList,required this.workspaceName});
+
+  WorkSpaceModel({required this.id,required this.boardList,required this.workspaceName, });
 
   static WorkSpaceModel workSpaceConst = WorkSpaceModel(
   id: '1', boardList: [
